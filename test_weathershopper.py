@@ -48,7 +48,7 @@ almond_min_element.find_element_by_xpath("button[text()='Add']").click()
 #click add to cart button
 browser.find_element_by_xpath("//button[contains(@class,'nav-link')]").click()
 
-time.sleep(2)
+time.sleep(3)
 
 browser.quit()
 

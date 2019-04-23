@@ -50,5 +50,7 @@ browser.find_element_by_xpath("//button[contains(@class,'nav-link')]").click()
 
 time.sleep(3)
 
+
+
 browser.quit()
 
